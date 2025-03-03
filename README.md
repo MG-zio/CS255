@@ -1,2 +1,12 @@
 # CS255
-Work done in CS-255 at snhu in 2025.
+## Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass project was the creation of a system to handle a driving school's website. It handled user profiles, scheduling lessons, taking classes, and purchasing packages.
+## What did you do particularly well?
+I think I did a good job of encapsulating the desires of the DriverPass team for their new system. I was able to define each feature they required and how they were intended to function. Without a clear vision of what the final product should look like, development of the system could have gone astray easily.
+## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I was to revise anything, I have spent more time on creating detailed activity diagrams for the system. I think what I have is sufficient, but there is more that could have been shown for how different processes would be handled.
+## How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I used the interview with the DriverPass team to create a list of each feature they required in the system. Then I added in details to those features that would satisfy the desires of the team. This process is very important to ensuring that the product created is one that meets the needs of the customer. If this was a real situation, feedback from the customer would be critical to ensure that the design of the product met their concept. Without this feedback, development time would be wasted and a less satisfactory product would be created.
+## How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+My approach to designing software is to begin with an understanding of the needs of the program. Then I start planning how the program will function. I think of the different objects involved and their relationships between each other. I note what their functions will be and what information they will need to conduct those functions. Using this I can create a class diagram that explains the function of the program.
+In the future, I think I can do a better job of using a program like LucidChart to illustrate the function of the program. Being able to plan things out is massively beneficial to development productivity and to a cohesive design.
